@@ -18,23 +18,24 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 ## Our Contacts and Resources
 
 * [Email](mailto:info@ruscadasec.com)
-* Telegram Channel
-* Twitter
-* Slide Decs
-* Youtube 
-* Online Shop
-* News Letter
-* Paypal 
-* Meetups
-* Zoom Meetups
+* [Telegram Channel](https://t.me/ruscadasecnews)
+* [Twitter](https://twitter.com/RUSCADASEC)
+* [Slide Decs](https://speakerdeck.com/ruscadasec)
+* [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
+* [Online Shop](http://ruscadasec.printdirect.ru/)
+* [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
+* [PayPal](http://paypal.me/RUSCADASEC)
+* [Meetups](https://ruscadasec.timepad.ru/events/)
+* [Zoom Meetups](http://bit.ly/rssmeetup)
 
 
 ## Partners
 
-* SCADASEC (US)
+* [SCADASEC](https://groups.io/g/scadasec/) (US)
 * EKS Siber Güvenlik Ekosistemi (Turkey)
 * ScadaSecBR (Brasil)
 * CCI (Spain)
+* Beer ISAC (US)
 
 ## RUSCADASEC Challange Coin Holders 
 RUSCADASEC Challange Coin is an initiative for ...
