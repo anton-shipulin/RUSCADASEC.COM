@@ -1,5 +1,5 @@
 <p align="left">
-  <img height="80" src="ruscadasec_only_text_github.jpg">
+  <img height="40" src="ruscadasec_only_text_github.jpg">
 </p>
 
 #
