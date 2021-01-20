@@ -37,9 +37,11 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 * Beer ISAC (US)
 
 ## RUSCADASEC Challange Coin Holders 
+
 RUSCADASEC Challange Coin is an initiative for ...
 
 [Coin Photo]
+
 |#|Name||||
 |---|---|---|---|---|
 | 001 | Антон Шипулин | [Twitter](https://t.me/Anton_Shipulin) | [LinkedIn](https://t.me/Anton_Shipulin) | [Facebook](https://t.me/Anton_Shipulin)
@@ -65,6 +67,7 @@ RUSCADASEC Challange Coin is an initiative for ...
 | 040 | [Кирилл Манахов](https://www.facebook.com/kirill.manakhov) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 | 069 | [Владимир Дащенко](https://www.facebook.com/vovka.vovka) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 | 100 | [Алексей Комаров](https://zlonov.com) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
+
 
 ##
 <p align=center> Copyright © RUSCADASEC
