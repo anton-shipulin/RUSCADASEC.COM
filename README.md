@@ -65,3 +65,5 @@ RUSCADASEC Challange Coin is an initiative for ...
 | 040 | [Кирилл Манахов](https://www.facebook.com/kirill.manakhov) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 | 069 | [Владимир Дащенко](https://www.facebook.com/vovka.vovka) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 | 100 | [Алексей Комаров](https://zlonov.com) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
+
+##
