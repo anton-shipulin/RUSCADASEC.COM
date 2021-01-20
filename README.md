@@ -24,10 +24,9 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 * [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Online Shop](http://ruscadasec.printdirect.ru/)
 * [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
-* [PayPal](http://paypal.me/RUSCADASEC)
 * [Meetups](https://ruscadasec.timepad.ru/events/)
 * [Zoom Meetups](http://bit.ly/rssmeetup)
-
+* [PayPal Donation](http://paypal.me/RUSCADASEC)
 
 ## Partners
 
