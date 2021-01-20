@@ -67,4 +67,4 @@ RUSCADASEC Challange Coin is an initiative for ...
 | 100 | [Алексей Комаров](https://zlonov.com) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 
 ##
-Copyright © RUSCADASEC
+<p align=center> Copyright © RUSCADASEC
