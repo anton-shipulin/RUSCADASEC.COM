@@ -5,5 +5,28 @@ The initiative objectives are to raise the awareness and expertise of security a
 
 The initiative encompasses online groups, live meetups and profile conferences, where the community members monitor main local and global industrial cyber security events, discuss organizational and technical aspects of the topic, share experience and ideas. We are always glad to have new members, ideas, and help on the community developing. Join us!
 
+## Partners
+
+* SCADASEC (US)
+* EKS Siber Güvenlik Ekosistemi (Turkey)
+* ScadaSecBR (Brasil)
+* CCI (Spain)
+
+## RUSCADASEC Challange Coin Holders 
+RUSCADASEC Challange Coin is an initiative for ...
+
+* 001 - 
+* 002 -
+*
+*
+
+|||||||
+| --- | --- | --- | --- | --- | --- |
+| photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name |
+| photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name |
+| photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name |
+| photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name | photo 001 Name |
+
+* 
 ## Books
 * [Time-Sensitive Networking For Dummies](https://www.belden.com/resources/knowledge/ebooks/time-sensitive-networking-for-dummies-lp)
