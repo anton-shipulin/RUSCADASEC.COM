@@ -9,8 +9,20 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 
 ## Join our groups!
 
-* [`telegram group`](https://t.me/RUSCADASEC) *(2K+ members)
-* [`Facebook group`](https://www.facebook.com/groups/RUSCADASEC.ORG) *(2K+ members)
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+* [![alt text][1.1]][1] [`telegram group`](https://t.me/RUSCADASEC) *(2K+ members)
+* [![alt text][2.1]][2] [`Facebook group`](https://www.facebook.com/groups/RUSCADASEC.ORG) *(2K+ members)
+
+
+
 
 ## Our resources
 
