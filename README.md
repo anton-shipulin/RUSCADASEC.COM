@@ -19,7 +19,8 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 * Online Shop
 * News Letter
 * Paypal 
-* 
+* Meetups
+* Zoom Meetups
 
 
 ## Partners
