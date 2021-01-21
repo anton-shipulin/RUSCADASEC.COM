@@ -43,21 +43,24 @@ RUSCADASEC Challange Coin is an initiative for ...
 
 [Coin Photo]
 
-[1.1]: 013-twitter.png
-[1.2]: 010-linkedin.png
-[1.3]: 001-facebook.png
+[1]: 013-twitter.png
+[2]: 010-linkedin.png
+[3]: 001-facebook.png
 
-[1]: http://www.twitter.com
-[2]: https://www.linkedin.com
-[3]: https://www.facebook.com/
+[0011]: https://twitter.com/shipulin_anton
+[0012]: https://www.linkedin.com/in/shipulin/
+[0013]: https://www.facebook.com/anton.shipulin.7
+[0021]: http://www.twitter.com
+[0022]: https://www.linkedin.com
+[0023]: https://www.facebook.com/
 
 
 |#|Name||||
 |---|---|---|---|---|
-| 001 | Антон Шипулин | [![][1.1]][https://twitter.com/shipulin_anton] | [![][1.2]][2] | [![][1.3]][3] |
-| 002 | [Илья Карпов](https://www.facebook.com/silentemptiness) |  | [![][1.1]][1] | [![][1.2]][2] | [![][1.3]][3] |
-| 003 | [Евгений Дружинин](https://www.facebook.com/evgeniy.druzhinin)  | [![][1.1]][1] | [![][1.2]][2] | [![][1.3]][3] |
-| 004 | [Алексей Гуревич](https://www.facebook.com/alexey.gurevich.71)  | [![][1.1]][1] | [![][1.2]][2] | [![][1.3]][3] |
+| 001 | Антон Шипулин | [![][1]][0011] | [![][2]][0012] | [![][3]][0013] |
+| 002 | [Илья Карпов](https://www.facebook.com/silentemptiness) |  | [![][1]](https://www.facebook.com/silentemptiness) | [![][2]]0022[] | [![][3]][0023] |
+| 003 | [Евгений Дружинин](https://www.facebook.com/evgeniy.druzhinin)  | |  |  |
+| 004 | [Алексей Гуревич](https://www.facebook.com/alexey.gurevich.71)  |  | | |
 | 006 | [Денис Суханов](https://www.facebook.com/viewpnt) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 | 009 | [Дмитрий Даренский](https://www.facebook.com/dmitry.darensky) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 | 010 | [Виталий](https://t.me/Siyanov84) [Сиянов](https://www.facebook.com/profile.php?id=1366303731) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
