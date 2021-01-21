@@ -1,5 +1,3 @@
-
-
 ## About Us
 RUSCADASEC is an independent non-profit initiative on developing the open Russian-speaking international community of industrial/operational technology cybersecurity professionals
 
