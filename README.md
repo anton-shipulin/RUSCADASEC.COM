@@ -23,7 +23,7 @@ Community rules:
 * [Twitter](https://twitter.com/RUSCADASEC)
 * [Telegram Channel](https://t.me/ruscadasecnews)
 * [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
-* [Slide Decs](https://speakerdeck.com/ruscadasec)
+* [Slide Decks](https://speakerdeck.com/ruscadasec)
 * [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
 * [Online Shop](http://ruscadasec.printdirect.ru/)
 * [Beer Meetups](https://ruscadasec.timepad.ru/events/)
@@ -44,7 +44,9 @@ Community rules:
 
 RUSCADASEC Challange Coin is an initiative for ...
 
-[Coin Photo]
+<p align="left">
+  <img height="50%" width="50%" src="001-rss_coin.jpg">
+</p>
 
 [1]: 013-twitter.png
 [2]: 010-linkedin.png
