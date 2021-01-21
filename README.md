@@ -52,10 +52,10 @@ RUSCADASEC Challange Coin is an initiative for ...
 [0023]: https://www.facebook.com
 
 
-|#|Name||||
+||||||
 |---|---|---|---|---|
 | 001 | Антон Шипулин | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) | [![][3]](https://www.facebook.com/anton.shipulin.7) |
-| 002 | [Илья Карпов](https://www.facebook.com/silentemptiness) |  | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 002 | Илья Карпов |  | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com/silentemptiness) |
 | 003 | [Евгений Дружинин](https://www.facebook.com/evgeniy.druzhinin)  |  | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
 | 004 | [Алексей Гуревич](https://www.facebook.com/alexey.gurevich.71)  |  | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
 | 006 | [Денис Суханов](https://www.facebook.com/viewpnt) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
