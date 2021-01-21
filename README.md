@@ -54,10 +54,10 @@ RUSCADASEC Challange Coin is an initiative for ...
 
 |#|Name||||
 |---|---|---|---|---|
-| 001 | Антон Шипулин | [![][1.1]][1] | [![][1.2]][2] | [![][1.3]][3]
-| 002 | [Илья Карпов](https://www.facebook.com/silentemptiness) | - | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 003 | [Евгений Дружинин](https://www.facebook.com/evgeniy.druzhinin) | - | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 004 | [Алексей Гуревич](https://www.facebook.com/alexey.gurevich.71) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
+| 001 | Антон Шипулин | [![][1.1]][https://twitter.com/shipulin_anton] | [![][1.2]][2] | [![][1.3]][3] |
+| 002 | [Илья Карпов](https://www.facebook.com/silentemptiness) |  | [![][1.1]][1] | [![][1.2]][2] | [![][1.3]][3] |
+| 003 | [Евгений Дружинин](https://www.facebook.com/evgeniy.druzhinin)  | [![][1.1]][1] | [![][1.2]][2] | [![][1.3]][3] |
+| 004 | [Алексей Гуревич](https://www.facebook.com/alexey.gurevich.71)  | [![][1.1]][1] | [![][1.2]][2] | [![][1.3]][3] |
 | 006 | [Денис Суханов](https://www.facebook.com/viewpnt) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 | 009 | [Дмитрий Даренский](https://www.facebook.com/dmitry.darensky) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 | 010 | [Виталий](https://t.me/Siyanov84) [Сиянов](https://www.facebook.com/profile.php?id=1366303731) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
