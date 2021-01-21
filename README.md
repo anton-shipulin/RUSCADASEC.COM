@@ -9,8 +9,8 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 
 ## Join Our Groups!
 
-* [`telegram group`](https://t.me/RUSCADASEC) *(2K+ members)
-* [`Facebook group`](https://www.facebook.com/groups/RUSCADASEC.ORG) *(2K+ members)
+* [[ Telegram group ]](https://t.me/RUSCADASEC) (2K+ members)
+* [[ Facebook group ]](https://www.facebook.com/groups/RUSCADASEC.ORG) (2K+ members)
 
 
 
