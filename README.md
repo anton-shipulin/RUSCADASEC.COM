@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="002_ruscadasec_only_text.png">
+</p>
+
 ## About Us
 RUSCADASEC is an independent non-profit initiative on developing the open Russian-speaking international community of industrial/operational technology cybersecurity professionals
 
@@ -40,17 +44,20 @@ Community rules:
 * [Beer ISAC](https://twitter.com/BEERISAC) (US)
 * [SANS ICS Community](https://ics-community.sans.org/) (US) 
 
-## RUSCADASEC Challange Coin Holders 
+## RUSCADASEC Challange Coin 
 
-RUSCADASEC Challange Coin is an initiative for ...
+RUSCADASEC Challange Coin is an initiative for [to be defined...]
 
 <p align="center">
   <img height="50%" width="50%" src="001-rss_coin.jpg">
 </p>
 
+
 [1]: 013-twitter.png
 [2]: 010-linkedin.png
 [3]: 001-facebook.png
+
+RUSCADASEC challange coin holders
 
 ||||||
 |---|---|---|---|---|
