@@ -45,7 +45,7 @@ RUSCADASEC Challange Coin is an initiative for ...
 
 |#|Name||||
 |---|---|---|---|---|
-| 001 | Антон Шипулин | [Twitter](https://t.me/Anton_Shipulin) | [LinkedIn](https://t.me/Anton_Shipulin) | [Facebook](https://t.me/Anton_Shipulin)
+| 001 | Антон Шипулин | ![](013-twitter.png) | ![](010-linkedin.png) | ![](001-facebook.png)
 | 002 | [Илья Карпов](https://www.facebook.com/silentemptiness) | - | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 | 003 | [Евгений Дружинин](https://www.facebook.com/evgeniy.druzhinin) | - | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
 | 004 | [Алексей Гуревич](https://www.facebook.com/alexey.gurevich.71) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
