@@ -54,30 +54,31 @@ RUSCADASEC Challange Coin is an initiative for ...
 
 |#|Name||||
 |---|---|---|---|---|
-| 001 | Антон Шипулин | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin)] | [![][3]](https://www.facebook.com/anton.shipulin.7) |
+| 001 | Антон Шипулин | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) | [![][3]](https://www.facebook.com/anton.shipulin.7) |
 | 002 | [Илья Карпов](https://www.facebook.com/silentemptiness) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
-| 003 | [Евгений Дружинин](https://www.facebook.com/evgeniy.druzhinin)  | |  |  |
-| 004 | [Алексей Гуревич](https://www.facebook.com/alexey.gurevich.71)  |  | | |
-| 006 | [Денис Суханов](https://www.facebook.com/viewpnt) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 009 | [Дмитрий Даренский](https://www.facebook.com/dmitry.darensky) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 010 | [Виталий](https://t.me/Siyanov84) [Сиянов](https://www.facebook.com/profile.php?id=1366303731) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 011 | [Антон](https://t.me/Toha_Elizarov) [Елизаров](https://www.facebook.com/profile.php?id=100001365592965) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 012 | [Краснов Роман](https://www.facebook.com/roman.krasnov.90) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 013 | [Ян](https://t.me/YanS_Andreevich) [Сухих](https://www.facebook.com/yan.andreevich) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 017 | [Алексей](https://t.me/alukatsk) [Лукацкий](https://www.facebook.com/alexey.lukatsky) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 015 | [Максим Никандров](https://www.facebook.com/maxim.nikandrov) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 018 | [Алексей Петухов](https://www.facebook.com/petyhovav) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 020 | [Денис](https://t.me/mihruitka) [Бабаев](https://www.facebook.com/denis.babaev) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 021 |[Екатерина Рудина](https://www.facebook.com/ekaterina.rudina.3) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 022 | [Сергей](https://t.me/Greylam) [Повышев](https://www.facebook.com/profile.php?id=100004347582964) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 023 | [Владимир Карантаев](https://www.facebook.com/vladimir.karantaev) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 025 | [Марина Сорокина](https://www.facebook.com/Mar.Sorokina) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 027 | [Алексей Мартынцев](https://www.facebook.com/alex.martyntsev) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 030 | [Артем Зубков](https://www.facebook.com/artem.zubkov.37) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 040 | [Кирилл Манахов](https://www.facebook.com/kirill.manakhov) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 069 | [Владимир Дащенко](https://www.facebook.com/vovka.vovka) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
-| 100 | [Алексей Комаров](https://zlonov.com) | [Twitter](https://twitter.com/) | [LinkedIn](https://www.linkedin.com/) | [Facebook](https://www.facebook.com/)
+| 003 | [Евгений Дружинин](https://www.facebook.com/evgeniy.druzhinin)  | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 004 | [Алексей Гуревич](https://www.facebook.com/alexey.gurevich.71)  | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 006 | [Денис Суханов](https://www.facebook.com/viewpnt) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 009 | [Дмитрий Даренский](https://www.facebook.com/dmitry.darensky) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 010 | [Виталий](https://t.me/Siyanov84) [Сиянов](https://www.facebook.com/profile.php?id=1366303731) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 011 | [Антон](https://t.me/Toha_Elizarov) [Елизаров](https://www.facebook.com/profile.php?id=100001365592965) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 012 | [Краснов Роман](https://www.facebook.com/roman.krasnov.90) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 013 | [Ян](https://t.me/YanS_Andreevich) [Сухих](https://www.facebook.com/yan.andreevich) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 017 | [Алексей](https://t.me/alukatsk) [Лукацкий](https://www.facebook.com/alexey.lukatsky) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 015 | [Максим Никандров](https://www.facebook.com/maxim.nikandrov) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 018 | [Алексей Петухов](https://www.facebook.com/petyhovav) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 020 | [Денис](https://t.me/mihruitka) [Бабаев](https://www.facebook.com/denis.babaev) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 021 |[Екатерина Рудина](https://www.facebook.com/ekaterina.rudina.3) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 022 | [Сергей](https://t.me/Greylam) [Повышев](https://www.facebook.com/profile.php?id=100004347582964) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 023 | [Владимир Карантаев](https://www.facebook.com/vladimir.karantaev) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 025 | [Марина Сорокина](https://www.facebook.com/Mar.Sorokina) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 027 | [Алексей Мартынцев](https://www.facebook.com/alex.martyntsev) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 030 | [Артем Зубков](https://www.facebook.com/artem.zubkov.37) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 040 | [Кирилл Манахов](https://www.facebook.com/kirill.manakhov) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 069 | [Владимир Дащенко](https://www.facebook.com/vovka.vovka) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
+| 100 | [Алексей Комаров](https://zlonov.com) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
 
 
 ##
-<p align=center> Copyright © RUSCADASEC
+
+Copyright © RUSCADASEC
