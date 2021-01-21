@@ -29,7 +29,7 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
 * [Yandex Donation](https://sobe.ru/na/ruscadasec)
 
-## Partners and Felow ICS Security communities
+## Partners and Friendly ICS Security Communities
 
 * [SCADASEC](https://groups.io/g/scadasec/) (US)
 * EKS Siber Güvenlik Ekosistemi (Turkey)
