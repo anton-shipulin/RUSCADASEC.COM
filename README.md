@@ -83,7 +83,5 @@ RUSCADASEC Challange Coin is an initiative for ...
 | 069 | [Владимир Дащенко](https://www.facebook.com/vovka.vovka) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
 | 100 | [Алексей Комаров](https://zlonov.com) | [![][1]](http://www.twitter.com) | [![][2]](https://www.linkedin.com) | [![][3]](https://www.facebook.com) |
 
-
-##
-
+---
 Copyright © RUSCADASEC
