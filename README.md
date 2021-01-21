@@ -22,12 +22,12 @@ Community rules:
 ## Our Contacts and Resources
 
 * [Email](mailto:info@ruscadasec.com)
-* [Telegram Channel](https://t.me/ruscadasecnews)
 * [Twitter](https://twitter.com/RUSCADASEC)
-* [Slide Decs](https://speakerdeck.com/ruscadasec)
+* [Telegram Channel](https://t.me/ruscadasecnews)
 * [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
-* [Online Shop](http://ruscadasec.printdirect.ru/)
+* [Slide Decs](https://speakerdeck.com/ruscadasec)
 * [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
+* [Online Shop](http://ruscadasec.printdirect.ru/)
 * [Meetups](https://ruscadasec.timepad.ru/events/)
 * [Zoom Meetups](http://bit.ly/rssmeetup)
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
