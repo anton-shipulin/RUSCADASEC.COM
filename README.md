@@ -44,7 +44,7 @@ Community rules:
 
 RUSCADASEC Challange Coin is an initiative for ...
 
-<p align="left">
+<p align="center">
   <img height="50%" width="50%" src="001-rss_coin.jpg">
 </p>
 
