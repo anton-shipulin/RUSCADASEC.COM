@@ -14,7 +14,7 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 * [[ Facebook group ]](https://www.facebook.com/groups/RUSCADASEC.ORG) (2K+ members)
 
 ```
-Community rules:
+Simple but importnat community rules:
 
 1. Be respectful with other users
 2. Stick to the topic of the groups
