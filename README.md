@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="002_ruscadasec_only_text.png">
+  <img height="50%" width="50%" src="002_ruscadasec_only_text.png">
 </p>
 
 ## About Us
@@ -59,6 +59,8 @@ RUSCADASEC Challange Coin is an initiative for [to be defined...]
 
 RUSCADASEC challange coin holders
 
+<p align="center">
+  
 ||||||
 |---|---|---|---|---|
 | 001 | Anton Shipulin | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) | [![][3]](https://www.facebook.com/anton.shipulin.7) |
@@ -84,6 +86,8 @@ RUSCADASEC challange coin holders
 | 040 | Kirill Manakhov |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) |
 | 069 | Vladimir Dashchenko | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) | [![][3]](https://www.facebook.com/vovka.vovka) |
 | 100 | Alexey Komarov | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) |
+
+</p>
 
 ---
 Copyright © RUSCADASEC
