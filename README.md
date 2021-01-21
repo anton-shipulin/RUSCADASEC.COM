@@ -43,9 +43,9 @@ Simple but important community rules:
 * [Beer ISAC](https://twitter.com/BEERISAC) (US)
 * [SANS ICS Community](https://ics-community.sans.org/) (US) 
 
-## RUSCADASEC Challange Coin 
+## RUSCADASEC Challenge Coin 
 
-RUSCADASEC Challange Coin is an initiative for [to be defined...]
+RUSCADASEC Challenge Coin is an initiative for [to be defined...]
 
 <p align="center">
   <img height="50%" width="50%" src="001-rss_coin.jpg">
@@ -56,7 +56,7 @@ RUSCADASEC Challange Coin is an initiative for [to be defined...]
 [2]: 010-linkedin.png
 [3]: 001-facebook.png
 
-RUSCADASEC challange coin holders
+RUSCADASEC challenge coin holders
 
 ||||||
 |---|---|---|---|---|
