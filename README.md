@@ -29,13 +29,14 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
 * [Yandex Donation](https://sobe.ru/na/ruscadasec)
 
-## Partners
+## Partners and Felow ICS Security communities
 
 * [SCADASEC](https://groups.io/g/scadasec/) (US)
 * EKS Siber Güvenlik Ekosistemi (Turkey)
 * ScadaSecBR (Brasil)
 * CCI (Spain)
 * Beer ISAC (US)
+* [SANS ICS Community](https://ics-community.sans.org/) (US) 
 
 ## RUSCADASEC Challange Coin Holders 
 
