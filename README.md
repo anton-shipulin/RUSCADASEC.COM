@@ -27,6 +27,7 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 * [Meetups](https://ruscadasec.timepad.ru/events/)
 * [Zoom Meetups](http://bit.ly/rssmeetup)
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
+* [Yandex Donation](https://sobe.ru/na/ruscadasec)
 
 ## Partners
 
