@@ -28,7 +28,7 @@ Community rules:
 * [Slide Decs](https://speakerdeck.com/ruscadasec)
 * [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
 * [Online Shop](http://ruscadasec.printdirect.ru/)
-* [Meetups](https://ruscadasec.timepad.ru/events/)
+* [Beer Meetups](https://ruscadasec.timepad.ru/events/)
 * [Zoom Meetups](http://bit.ly/rssmeetup)
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
 * [Yandex Donation](https://sobe.ru/na/ruscadasec)
