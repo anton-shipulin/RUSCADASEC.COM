@@ -47,10 +47,7 @@ Simple but important community rules:
 
 RUSCADASEC Challenge Coin is an initiative for [to be defined...]
 
-<p align="center">
-  <img height="50%" width="50%" src="001-rss_coin.jpg">
-</p>
-
+<img height="50%" width="50%" src="001-rss_coin.jpg">
 
 [1]: 013-twitter.png
 [2]: 010-linkedin.png
