@@ -67,8 +67,9 @@ RUSCADASEC challenge coin holders
 | 011 | Anton Lizarov | Russia |  | [![][2]](https://www.linkedin.com/in/akelizarov/) | [![][3]](https://www.facebook.com/profile.php?id=100001365592965) |
 | 012 | Roman Krasnov | Russia |  | [![][2]](https://www.linkedin.com/in/romankrasnov/) | [![][3]](https://www.facebook.com/roman.krasnov.90) |
 | 013 | Yan Sukhikh | Russia |  | [![][2]](https://www.linkedin.com/in/yan-sukhikh-aa972242/) | [![][3]](https://www.facebook.com/yan.andreevich) |
-| 017 | Aleksey Lukatskiy | Russia |[![][1]](https://twitter.com/alukatsky)|[![][2]](https://www.linkedin.com/in/aleksey-lukatskiy-b9a2431/)|[![][3]](https://www.facebook.com/alexey.lukatsky)|
+| 014 | Alexander Karpenko | Russia |  |  |  |
 | 015 | Maxim Nikandrov | Russia |  | [![][2]](https://www.linkedin.com/in/nikandrov-maxim-8236b280/) | [![][3]](https://www.facebook.com/maxim.nikandrov) |
+| 017 | Aleksey Lukatskiy | Russia |[![][1]](https://twitter.com/alukatsky)|[![][2]](https://www.linkedin.com/in/aleksey-lukatskiy-b9a2431/)|[![][3]](https://www.facebook.com/alexey.lukatsky)|
 | 018 | Alexey Petukhov | Russia |  |  | [![][3]](https://www.facebook.com/petyhovav) |
 | 020 | Denis Babaev | Russia | [![][1]](https://twitter.com/babaevdi) | [![][2]](https://www.linkedin.com/in/denis-babaev-8529a341/) | [![][3]](https://www.facebook.com/denis.babaev) |
 | 021 | Ekaterina Rudina | Russia | [![][1]](https://twitter.com/EkaterinaRudina) | [![][2]](https://www.linkedin.com/in/ekaterina-rudina/) | [![][3]](https://www.facebook.com/ekaterina.rudina.3) |
