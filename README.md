@@ -41,9 +41,9 @@ Simple but important community rules:
 * [ScadaSecBR](https://t.me/scadasecbr) (Brasil)
 * [Industrial Cybersecurity Center (CCI)](https://www.cci-es.org/) (Spain)
 * [Beer ISAC](https://twitter.com/BEERISAC) (US)
-* [SANS ICS Community](https://ics-community.sans.org/) (US) 
+* [SANS ICS Community](https://ics-community.sans.org/) (US)
 
-## RUSCADASEC Challenge Coin 
+## RUSCADASEC Challenge Coin
 
 RUSCADASEC Challenge Coin is an initiative for [to be defined...]
 
@@ -80,7 +80,7 @@ RUSCADASEC challenge coin holders
 | 030 | Artyom Zubkov | Russia |  | [![][2]](https://www.linkedin.com/in/артем-зубков-9450a430/) | [![][3]](https://www.facebook.com/artem.zubkov.37) |
 | 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) |
 | 069 | Vladimir Dashchenko | Russia | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) | [![][3]](https://www.facebook.com/vovka.vovka) |
-| 100 | Alexey Komarov | Russia | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) |
+| 100 | [Alexey Komarov](https://zlonov.com) | Russia | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) |
 
 ---
 Copyright © RUSCADASEC
