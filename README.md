@@ -55,32 +55,33 @@ RUSCADASEC Challenge Coin is an initiative for [to be defined...]
 
 RUSCADASEC challenge coin holders
 
-|#|Name|Country||||
-|---|---|:---:|---|---|---|
-| 001 | Anton Shipulin | Russia | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) | [![][3]](https://www.facebook.com/anton.shipulin.7) |
-| 002 | Ilya Karpov | Russia |  | [![][2]](https://www.linkedin.com/in/ilya-karpov-06519178/) | [![][3]](https://www.facebook.com/silentemptiness) |
-| 003 | Evgeniy Druzhinin  | Russia |  |  | [![][3]](https://www.facebook.com/evgeniy.druzhinin) |
-| 004 | Alexey Gurevich  | Russia |  | [![][2]](https://www.linkedin.com/in/alexey-gurevich-0940ab111/) | [![][3]](https://www.facebook.com/alexey.gurevich.71) |
-| 006 | Denis Sukhanov | Russia |  |  | [![][3]](https://www.facebook.com/viewpnt) |
-| 009 | Dmitry Darensky | Russia | [![][1]](https://twitter.com/ddarensky) | [![][2]](https://www.linkedin.com/in/darensky/) | [![][3]](https://www.facebook.com/dmitry.darensky) |
-| 010 | Vitaly Siyanov | Russia |  | [![][2]](https://www.linkedin.com/in/виталий-сиянов-0933182a/) | [![][3]](https://www.facebook.com/profile.php?id=1366303731) |
-| 011 | Anton Elizarov | Russia |  | [![][2]](https://www.linkedin.com/in/akelizarov/) | [![][3]](https://www.facebook.com/profile.php?id=100001365592965) |
-| 012 | Roman Krasnov | Russia |  | [![][2]](https://www.linkedin.com/in/romankrasnov/) | [![][3]](https://www.facebook.com/roman.krasnov.90) |
-| 013 | Yan Sukhikh | Russia |  | [![][2]](https://www.linkedin.com/in/yan-sukhikh-aa972242/) | [![][3]](https://www.facebook.com/yan.andreevich) |
-| 014 | Alexander Karpenko | Russia |  | [![][2]](https://www.linkedin.com/in/александр-карпенко-a48b5b100/) |  |
-| 015 | Maxim Nikandrov | Russia |  | [![][2]](https://www.linkedin.com/in/nikandrov-maxim-8236b280/) | [![][3]](https://www.facebook.com/maxim.nikandrov) |
-| 017 | Aleksey Lukatskiy | Russia |[![][1]](https://twitter.com/alukatsky)|[![][2]](https://www.linkedin.com/in/aleksey-lukatskiy-b9a2431/)|[![][3]](https://www.facebook.com/alexey.lukatsky)|
-| 018 | Alexey Petukhov | Russia |  |  | [![][3]](https://www.facebook.com/petyhovav) |
-| 020 | Denis Babaev | Russia | [![][1]](https://twitter.com/babaevdi) | [![][2]](https://www.linkedin.com/in/denis-babaev-8529a341/) | [![][3]](https://www.facebook.com/denis.babaev) |
-| 021 | Ekaterina Rudina | Russia | [![][1]](https://twitter.com/EkaterinaRudina) | [![][2]](https://www.linkedin.com/in/ekaterina-rudina/) | [![][3]](https://www.facebook.com/ekaterina.rudina.3) |
-| 022 | Sergey Povyshev | Russia |  |  | [![][3]](https://www.facebook.com/profile.php?id=100004347582964) |
-| 023 | Vladimir Karantaev | Russia | [![][1]](https://twitter.com/KarantaevV) | [![][2]](https://www.linkedin.com/in/vladimirkarantaev/) | [![][3]](https://www.facebook.com/vladimir.karantaev) |
-| 025 | Marina Sorokina | Russia | [![][1]](https://twitter.com/MarSorokina) | [![][2]](https://www.linkedin.com/in/marsorokina/) | [![][3]](https://www.facebook.com/Mar.Sorokina) |
-| 027 | Alexey Martyntsev | Russia |  | [![][2]](https://www.linkedin.com/in/алексей-мартынцев-13452456/) | [![][3]](https://www.facebook.com/alex.martyntsev) |
-| 030 | Artyom Zubkov | Russia |  | [![][2]](https://www.linkedin.com/in/артем-зубков-9450a430/) | [![][3]](https://www.facebook.com/artem.zubkov.37) |
-| 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) |
-| 069 | Vladimir Dashchenko | Russia | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) | [![][3]](https://www.facebook.com/vovka.vovka) |
-| 100 | Alexey Komarov | Russia | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) |
+|#|Name|Country|||||
+|---|---|:---:|---|---|---|---|
+| 001 | Anton Shipulin | Russia | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) | [![][3]](https://www.facebook.com/anton.shipulin.7) ||
+| 002 | Ilya Karpov | Russia |  | [![][2]](https://www.linkedin.com/in/ilya-karpov-06519178/) | [![][3]](https://www.facebook.com/silentemptiness) ||
+| 003 | Evgeniy Druzhinin  | Russia |  |  | [![][3]](https://www.facebook.com/evgeniy.druzhinin) ||
+| 004 | Alexey Gurevich  | Russia |  | [![][2]](https://www.linkedin.com/in/alexey-gurevich-0940ab111/) | [![][3]](https://www.facebook.com/alexey.gurevich.71) ||
+| 006 | Denis Sukhanov | Russia |  |  | [![][3]](https://www.facebook.com/viewpnt) ||
+| 009 | Dmitry Darensky | Russia | [![][1]](https://twitter.com/ddarensky) | [![][2]](https://www.linkedin.com/in/darensky/) | [![][3]](https://www.facebook.com/dmitry.darensky) ||
+| 010 | Vitaly Siyanov | Russia |  | [![][2]](https://www.linkedin.com/in/виталий-сиянов-0933182a/) | [![][3]](https://www.facebook.com/profile.php?id=1366303731) ||
+| 011 | Anton Elizarov | Russia |  | [![][2]](https://www.linkedin.com/in/akelizarov/) | [![][3]](https://www.facebook.com/profile.php?id=100001365592965) ||
+| 012 | Roman Krasnov | Russia |  | [![][2]](https://www.linkedin.com/in/romankrasnov/) | [![][3]](https://www.facebook.com/roman.krasnov.90) ||
+| 013 | Yan Sukhikh | Russia |  | [![][2]](https://www.linkedin.com/in/yan-sukhikh-aa972242/) | [![][3]](https://www.facebook.com/yan.andreevich) ||
+| 014 | Alexander Karpenko | Russia |  | [![][2]](https://www.linkedin.com/in/александр-карпенко-a48b5b100/) |  ||
+| 015 | Maxim Nikandrov | Russia |  | [![][2]](https://www.linkedin.com/in/nikandrov-maxim-8236b280/) | [![][3]](https://www.facebook.com/maxim.nikandrov) ||
+| 017 | Aleksey Lukatskiy | Russia |[![][1]](https://twitter.com/alukatsky)|[![][2]](https://www.linkedin.com/in/aleksey-lukatskiy-b9a2431/)|[![][3]](https://www.facebook.com/alexey.lukatsky)||
+| 018 | Alexey Petukhov | Russia |  |  | [![][3]](https://www.facebook.com/petyhovav) ||
+| 019 | Evgeny Gengrinovich | Russia |  | [![][2]](https://www.linkedin.com/in/evgeny-gengrinovich-49351924) | [![][3]](https://www.facebook.com/profile.php?id=100000910518589) ||
+| 020 | Denis Babaev | Russia | [![][1]](https://twitter.com/babaevdi) | [![][2]](https://www.linkedin.com/in/denis-babaev-8529a341/) | [![][3]](https://www.facebook.com/denis.babaev) ||
+| 021 | Ekaterina Rudina | Russia | [![][1]](https://twitter.com/EkaterinaRudina) | [![][2]](https://www.linkedin.com/in/ekaterina-rudina/) | [![][3]](https://www.facebook.com/ekaterina.rudina.3) ||
+| 022 | Sergey Povyshev | Russia |  |  | [![][3]](https://www.facebook.com/profile.php?id=100004347582964) ||
+| 023 | Vladimir Karantaev | Russia | [![][1]](https://twitter.com/KarantaevV) | [![][2]](https://www.linkedin.com/in/vladimirkarantaev/) | [![][3]](https://www.facebook.com/vladimir.karantaev) ||
+| 025 | Marina Sorokina | Russia | [![][1]](https://twitter.com/MarSorokina) | [![][2]](https://www.linkedin.com/in/marsorokina/) | [![][3]](https://www.facebook.com/Mar.Sorokina) ||
+| 027 | Alexey Martyntsev | Russia |  | [![][2]](https://www.linkedin.com/in/алексей-мартынцев-13452456/) | [![][3]](https://www.facebook.com/alex.martyntsev) ||
+| 030 | Artyom Zubkov | Russia |  | [![][2]](https://www.linkedin.com/in/артем-зубков-9450a430/) | [![][3]](https://www.facebook.com/artem.zubkov.37) ||
+| 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) ||
+| 069 | Vladimir Dashchenko | Russia | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) | [![][3]](https://www.facebook.com/vovka.vovka) ||
+| 100 | Alexey Komarov | Russia | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) ||
 
 ---
 Copyright © RUSCADASEC
