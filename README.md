@@ -69,6 +69,7 @@ RUSCADASEC challenge coin holders
 | 013 | Yan Sukhikh | Russia |  | [![][2]](https://www.linkedin.com/in/yan-sukhikh-aa972242/) | [![][3]](https://www.facebook.com/yan.andreevich) ||
 | 014 | Alexander Karpenko | Russia |  | [![][2]](https://www.linkedin.com/in/александр-карпенко-a48b5b100/) |  ||
 | 015 | Maxim Nikandrov | Russia |  | [![][2]](https://www.linkedin.com/in/nikandrov-maxim-8236b280/) | [![][3]](https://www.facebook.com/maxim.nikandrov) ||
+| 016 | Nikolay Domukhovsky | Russia |  | [![][2]](https://www.linkedin.com/in/%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9-%D0%B4%D0%BE%D0%BC%D1%83%D1%85%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9-8b936b64/) | [![][3]](https://www.facebook.com/profile.php?id=100011343135746) ||
 | 017 | Aleksey Lukatskiy | Russia |[![][1]](https://twitter.com/alukatsky)|[![][2]](https://www.linkedin.com/in/aleksey-lukatskiy-b9a2431/)|[![][3]](https://www.facebook.com/alexey.lukatsky)||
 | 018 | Alexey Petukhov | Russia |  |  | [![][3]](https://www.facebook.com/petyhovav) ||
 | 019 | Evgeny Gengrinovich | Russia |  | [![][2]](https://www.linkedin.com/in/evgeny-gengrinovich-49351924) | [![][3]](https://www.facebook.com/profile.php?id=100000910518589) ||
@@ -77,6 +78,7 @@ RUSCADASEC challenge coin holders
 | 022 | Sergey Povyshev | Russia |  |  | [![][3]](https://www.facebook.com/profile.php?id=100004347582964) ||
 | 023 | Vladimir Karantaev | Russia | [![][1]](https://twitter.com/KarantaevV) | [![][2]](https://www.linkedin.com/in/vladimirkarantaev/) | [![][3]](https://www.facebook.com/vladimir.karantaev) ||
 | 025 | Marina Sorokina | Russia | [![][1]](https://twitter.com/MarSorokina) | [![][2]](https://www.linkedin.com/in/marsorokina/) | [![][3]](https://www.facebook.com/Mar.Sorokina) ||
+| 026 | Sergey Pariev | Russia |  | [![][2]](https://www.linkedin.com/in/sergey-pariev-3196441/) | [![][3]](https://www.facebook.com/sergey.pariev) ||
 | 027 | Alexey Martyntsev | Russia |  | [![][2]](https://www.linkedin.com/in/алексей-мартынцев-13452456/) | [![][3]](https://www.facebook.com/alex.martyntsev) ||
 | 030 | Artyom Zubkov | Russia |  | [![][2]](https://www.linkedin.com/in/артем-зубков-9450a430/) | [![][3]](https://www.facebook.com/artem.zubkov.37) ||
 | 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) ||
