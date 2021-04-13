@@ -77,6 +77,7 @@ RUSCADASEC challenge coin holders
 | 021 | Ekaterina Rudina | Russia | [![][1]](https://twitter.com/EkaterinaRudina) | [![][2]](https://www.linkedin.com/in/ekaterina-rudina/) | [![][3]](https://www.facebook.com/ekaterina.rudina.3) ||
 | 022 | Sergey Povyshev | Russia |  |  | [![][3]](https://www.facebook.com/profile.php?id=100004347582964) ||
 | 023 | Vladimir Karantaev | Russia | [![][1]](https://twitter.com/KarantaevV) | [![][2]](https://www.linkedin.com/in/vladimirkarantaev/) | [![][3]](https://www.facebook.com/vladimir.karantaev) ||
+| 024 | Andrey Kuznetsov | Russia |  |  | [![][3]](https://www.facebook.com/einaruss) ||
 | 025 | Marina Sorokina | Russia | [![][1]](https://twitter.com/MarSorokina) | [![][2]](https://www.linkedin.com/in/marsorokina/) | [![][3]](https://www.facebook.com/Mar.Sorokina) ||
 | 026 | Sergey Pariev | Russia |  | [![][2]](https://www.linkedin.com/in/sergey-pariev-3196441/) | [![][3]](https://www.facebook.com/sergey.pariev) ||
 | 027 | Alexey Martyntsev | Russia |  | [![][2]](https://www.linkedin.com/in/алексей-мартынцев-13452456/) | [![][3]](https://www.facebook.com/alex.martyntsev) ||
