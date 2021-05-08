@@ -84,6 +84,7 @@ RUSCADASEC challenge coin holders
 | 026 | Sergey Pariev | Russia |  | [![][2]](https://www.linkedin.com/in/sergey-pariev-3196441/) | [![][3]](https://www.facebook.com/sergey.pariev) |||
 | 027 | Alexey Martyntsev | Russia |  | [![][2]](https://www.linkedin.com/in/алексей-мартынцев-13452456/) | [![][3]](https://www.facebook.com/alex.martyntsev) |||
 | 030 | Artyom Zubkov | Russia |  | [![][2]](https://www.linkedin.com/in/артем-зубков-9450a430/) | [![][3]](https://www.facebook.com/artem.zubkov.37) |||
+| 033 | Alexey Ivanov | Russia |  | [![][2]](https://www.linkedin.com/in/alexey-ivanov-540bb34/) ||||
 | 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) |||
 | 069 | Vladimir Dashchenko | Russia | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) | [![][3]](https://www.facebook.com/vovka.vovka) |||
 | 100 | Alexey Komarov | Russia | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) ||[![][5]](https://zlonov.com)|
