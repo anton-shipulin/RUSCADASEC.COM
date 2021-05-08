@@ -1,6 +1,6 @@
 [Russian](https://ruscadasec.ru) | English
 
-## About Us
+## About us
 
 <img align="left" height="20%" width="20%" src="003_ruscadasec_J_logo-fin_RGB_with-safe-area.png">
 
@@ -22,7 +22,7 @@ Simple but important community rules:
 2. Stick to the topic of the groups
 ```
 
-## Our Contacts and Resources
+## Our contacts and resources
 
 * [Email](mailto:info@ruscadasec.com)
 * [Twitter](https://twitter.com/RUSCADASEC)
@@ -36,7 +36,7 @@ Simple but important community rules:
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
 * [Yandex Donation](https://sobe.ru/na/ruscadasec)
 
-## Partners and Other ICS Security Communities
+## Partners and other ICS Security communities
 
 * [SCADASEC](https://groups.io/g/scadasec/) (US)
 * [EKS Siber Güvenlik Ekosistemi](https://www.eksguvenligi.org/) (Turkey)
