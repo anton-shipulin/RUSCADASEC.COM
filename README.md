@@ -36,7 +36,7 @@ Simple but important community rules:
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
 * [Yandex Donation](https://sobe.ru/na/ruscadasec)
 
-## Partners and Friendly ICS Security Communities
+## Partners and Other ICS Security Communities
 
 * [SCADASEC](https://groups.io/g/scadasec/) (US)
 * [EKS Siber Güvenlik Ekosistemi](https://www.eksguvenligi.org/) (Turkey)
