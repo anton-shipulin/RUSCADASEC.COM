@@ -53,6 +53,7 @@ RUSCADASEC Challenge Coin is an initiative for [to be defined...]
 [2]: 010-linkedin.png
 [3]: 001-facebook.png
 [4]: 211-instagram.png
+[5]: 311-homepage.png
 
 RUSCADASEC challenge coin holders
 
