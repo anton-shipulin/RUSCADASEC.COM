@@ -1,4 +1,4 @@
-<p align="right">[ <a href="https://ruscadasec.ru">Russian</a> | English ]</p>
+[ [Russian](https://ruscadasec.com) | English]
 
 ## About Us
 
