@@ -2,7 +2,7 @@
 
 ## About us
 
-<img align="left" height="20%" width="20%" src="003_ruscadasec_J_logo-fin_RGB_with-safe-area.png">
+[<img align="left" height="20%" width="20%" src="003_ruscadasec_J_logo-fin_RGB_with-safe-area.png">](https://t.me/RUSCADASEC)
 
 RUSCADASEC is an independent non-profit initiative on developing the open international community of industrial/operational technology cybersecurity professionals.
 
