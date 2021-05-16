@@ -57,9 +57,11 @@ Simple but important community rules:
 
 ## RUSCADASEC Challenge Coin
 
-RUSCADASEC Challenge Coin is an initiative for [to be defined...]
+<img align="left" height="25%" width="25%" src="001-rss_coin.jpg">
 
-<img height="70%" width="70%" src="001-rss_coin.jpg">
+RUSCADASEC Challenge Coin is an initiative for [to be defined...]AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA 
+
+<!--- <img height="70%" width="70%" src="001-rss_coin.jpg"> --> 
 
 [1]: 013-twitter.png
 [2]: 010-linkedin.png
