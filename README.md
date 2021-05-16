@@ -14,6 +14,7 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 
 * [[ Telegram group ]](https://t.me/RUSCADASEC) 2K+ members
 * [[ Facebook group ]](https://www.facebook.com/groups/RUSCADASEC.ORG) 2K+ members
+[comment]: <> (This is a comment, it will not be included)
 
 ```
 Simple but important community rules:
