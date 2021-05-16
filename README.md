@@ -10,16 +10,17 @@ The initiative objectives are to raise the awareness and expertise of security a
 
 The initiative encompasses online groups, live meetups and profile conferences, where the community members monitor main local and global industrial cyber security events, discuss organizational and technical aspects of the topic, share experience and ideas. We are always glad to have new members, ideas, and help on the community developing. Join us!
 
-[<img src="TG_EN.png">](http://google.com.au/)
+[<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
 
-[![Foo](TG_EN)](http://google.com.au/)
 
-We are [here](https://t.me/RUSCADASEC): [[ Telegram group ]](https://t.me/RUSCADASEC)
+<!---
 
-## We are here, join us!
+ ## We are here, join us!
 
-* [[ Telegram group ]](https://t.me/RUSCADASEC) 2K+ members
-<!--- * [[ Facebook group ]](https://www.facebook.com/groups/RUSCADASEC.ORG) 2K+ members --> 
+* [[ Telegram group ]](https://t.me/RUSCADASEC) 2K+ members 
+* [[ Facebook group ]](https://www.facebook.com/groups/RUSCADASEC.ORG) 2K+ members 
+
+--> 
 
 ```
 Simple but important community rules:
@@ -35,12 +36,15 @@ Simple but important community rules:
 * [Telegram Channel](https://t.me/ruscadasecnews)
 * [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Slide Decks](https://speakerdeck.com/ruscadasec)
-* [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
 * [Online Shop](http://ruscadasec.printdirect.ru/)
 * [Beer Meetups](https://ruscadasec.timepad.ru/events/)
-* [Zoom Meetups](http://bit.ly/rssmeetup)
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
 * [Yandex Donation](https://sobe.ru/na/ruscadasec)
+
+<!---
+* [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
+* [Zoom Meetups](http://bit.ly/rssmeetup)
+--> 
 
 ## Partners and other ICS Security communities
 
