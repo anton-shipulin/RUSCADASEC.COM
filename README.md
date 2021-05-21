@@ -78,7 +78,7 @@ RUSCADASEC challenge coin holders
 | 003 | Evgeniy Druzhinin  | Russia |  |  | [![][3]](https://www.facebook.com/evgeniy.druzhinin) |||
 | 004 | Alexey Gurevich  | Russia |  | [![][2]](https://www.linkedin.com/in/alexey-gurevich-0940ab111/) | [![][3]](https://www.facebook.com/alexey.gurevich.71) |||
 | 006 | Denis Sukhanov | Russia |  |  | [![][3]](https://www.facebook.com/viewpnt) |||
-| 008 | Daniil Tameev | Russia |  | [![][2]](https://www.linkedin.com/in/dtameev/) | [![][3]](https://www.facebook.com/viewpnt) |||
+| 008 | Daniil Tameev | Russia |  | [![][2]](https://www.linkedin.com/in/dtameev/) | [![][3]](https://www.facebook.com/d.tameev) |||
 | 009 | Dmitry Darensky | Russia | [![][1]](https://twitter.com/ddarensky) | [![][2]](https://www.linkedin.com/in/darensky/) | [![][3]](https://www.facebook.com/dmitry.darensky) |||
 | 010 | Vitaly Siyanov | Russia |  | [![][2]](https://www.linkedin.com/in/виталий-сиянов-0933182a/) | [![][3]](https://www.facebook.com/profile.php?id=1366303731) |||
 | 011 | Anton Elizarov | Russia |  | [![][2]](https://www.linkedin.com/in/akelizarov/) | [![][3]](https://www.facebook.com/profile.php?id=100001365592965) |||
