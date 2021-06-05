@@ -71,6 +71,7 @@ RUSCADASEC Challenge Coin is a metal medallion with, a community logo, motto, an
 
 <br />
 <br />
+<br />
 
 RUSCADASEC challenge coin holders
 
