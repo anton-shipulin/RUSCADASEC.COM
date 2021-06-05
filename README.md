@@ -57,9 +57,9 @@ Simple but important community rules:
 
 ## RUSCADASEC Challenge Coin
 
-<img align="left" height="25%" width="25%" src="001-rss_coin.jpg">
+[<img align="left" height="25%" width="25%" src="001-rss_coin.jpg">](https://ruscadasec.com/001-rss_coin.jpg)
 
-RUSCADASEC Challenge Coin is an initiative for [to be defined...]AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA AAAA 
+RUSCADASEC Challenge Coin is a metal medallion with, a community logo, motto, and a unique number, granted to people in recognition of support and contribution to the development of the RUSCADASEC community, contribution to the development of industrial cybersecurity in Russia and globally! 
 
 <!--- <img height="70%" width="70%" src="001-rss_coin.jpg"> --> 
 
@@ -68,6 +68,9 @@ RUSCADASEC Challenge Coin is an initiative for [to be defined...]AAAA AAAA AAAA 
 [3]: 001-facebook.png
 [4]: 211-instagram.png
 [5]: 311-homepage.png
+
+<br />
+<br />
 
 RUSCADASEC challenge coin holders
 
