@@ -102,6 +102,7 @@ RUSCADASEC challenge coin holders
 | 025 | Marina Sorokina | Russia | [![][1]](https://twitter.com/MarSorokina) | [![][2]](https://www.linkedin.com/in/marsorokina/) | [![][3]](https://www.facebook.com/Mar.Sorokina) |||
 | 026 | Sergey Pariev | Russia |  | [![][2]](https://www.linkedin.com/in/sergey-pariev-3196441/) | [![][3]](https://www.facebook.com/sergey.pariev) |||
 | 027 | Alexey Martyntsev | Russia |  | [![][2]](https://www.linkedin.com/in/алексей-мартынцев-13452456/) | [![][3]](https://www.facebook.com/alex.martyntsev) |||
+| 028 | Alexander Lifanov | Russia | [![][1]](https://twitter.com/AlxLifanov) | [![][2]](https://www.linkedin.com/in/%D0%B0%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80-%D0%BB%D0%B8%D1%84%D0%B0%D0%BD%D0%BE%D0%B2-21168725/) | [![][3]](https://www.facebook.com/alifanov) |||
 | 030 | Artyom Zubkov | Russia |  | [![][2]](https://www.linkedin.com/in/артем-зубков-9450a430/) | [![][3]](https://www.facebook.com/artem.zubkov.37) |||
 | 033 | Alexey Ivanov | Russia |  | [![][2]](https://www.linkedin.com/in/alexey-ivanov-540bb34/) ||||
 | 035 | Can [ˈdʒɒn] Demirel | Turkey | [![][1]](https://twitter.com/secandit) | [![][2]](https://www.linkedin.com/in/demirelcan/) ||||
