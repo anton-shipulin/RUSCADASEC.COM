@@ -33,6 +33,7 @@ Simple but important community rules:
 
 * [Email](mailto:info@ruscadasec.com)
 * [Twitter](https://twitter.com/RUSCADASEC)
+* [Telegram Group](https://t.me/ruscadasec)
 * [Telegram Channel](https://t.me/ruscadasecnews)
 * [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Slide Decks](https://speakerdeck.com/ruscadasec)
