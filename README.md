@@ -26,7 +26,7 @@ The initiative encompasses online groups, live meetups and profile conferences, 
 Simple but important community rules:
 
 1. Be respectful of the other members
-2. Stick to the topic of the groups
+2. Stick to the topic of the community
 ```
 
 ## Our contacts and resources
