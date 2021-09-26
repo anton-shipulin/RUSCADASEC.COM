@@ -33,12 +33,12 @@ Simple but important community rules:
 
 * [Email](mailto:info@ruscadasec.com)
 * [Twitter](https://twitter.com/RUSCADASEC)
+* [Meetups](https://ruscadasec.timepad.ru/events/)
 * [Telegram Group](https://t.me/ruscadasec)
 * [Telegram Channel](https://t.me/ruscadasecnews)
 * [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Slide Decks](https://speakerdeck.com/ruscadasec)
 * [Online Shop](http://ruscadasec.printdirect.ru/)
-* [Beer Meetups](https://ruscadasec.timepad.ru/events/)
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
 * [YooMoney Donation](https://sobe.ru/na/ruscadasec)
 
