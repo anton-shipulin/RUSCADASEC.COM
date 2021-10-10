@@ -55,7 +55,7 @@ Simple but important community rules:
 * [Industrial Cybersecurity Center (CCI)](https://www.cci-es.org/) (Spain)
 * [Beer ISAC](https://twitter.com/BEERISAC) (US)
 * [SANS ICS Community](https://ics-community.sans.org/) (US)
-* [ISA99 Standards Committee](https://www.isa.org/standards-and-publications/isa-standards/join-a-standards-committee)(US)
+* [ISA99 Standards Committee](https://www.isa.org/standards-and-publications/isa-standards/join-a-standards-committee) (US)
 
 ## RUSCADASEC Challenge Coin
 
