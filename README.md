@@ -78,9 +78,9 @@ RUSCADASEC Challenge Coin is a metal medallion with, a community logo, motto, an
 
 RUSCADASEC challenge coin holders
 
-|#|Name|Country||||||
-|---|---|:---:|---|---|---|---|---|
-| 001 | Anton Shipulin | Russia | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) | [![][3]](https://www.facebook.com/anton.shipulin.7) ||||
+|#|Name|Country|||||||
+|---|---|:---:|---|---|---|---|---|---|
+| 001 | Anton Shipulin | Russia | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) | [![][3]](https://www.facebook.com/anton.shipulin.7) |||[![][6]](https://t.me/shipulin_anton)|
 | 002 | Ilya Karpov | Russia |  | [![][2]](https://www.linkedin.com/in/ilya-karpov-06519178/) | [![][3]](https://www.facebook.com/silentemptiness) ||||
 | 003 | Evgeniy Druzhinin  | Russia |  |  | [![][3]](https://www.facebook.com/evgeniy.druzhinin) ||||
 | 004 | Alexey Gurevich  | Russia |  | [![][2]](https://www.linkedin.com/in/alexey-gurevich-0940ab111/) | [![][3]](https://www.facebook.com/alexey.gurevich.71) ||||
