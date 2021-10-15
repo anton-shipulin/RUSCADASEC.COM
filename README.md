@@ -112,6 +112,7 @@ RUSCADASEC challenge coin holders
 | 033 | Alexey Ivanov | Russia |  | [![][2]](https://www.linkedin.com/in/alexey-ivanov-540bb34/) |||||
 | 035 | Can [ˈdʒɒn] Demirel | Turkey | [![][1]](https://twitter.com/secandit) | [![][2]](https://www.linkedin.com/in/demirelcan/) |||||
 | 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) ||||
+| 042 | Zakir Supeyev | Kazakhstan | | [![][2]](https://www.linkedin.com/in/zakir-supeyev/) | [![][3]](https://www.facebook.com/zakir.supeyev) ||||
 | 069 | Vladimir Dashchenko | Russia | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) | [![][3]](https://www.facebook.com/vovka.vovka) ||||
 | 070 | Eugene Kaspersky | Russia | [![][1]](https://twitter.com/e_kaspersky) | [![][2]](https://www.linkedin.com/in/eugenekaspersky) | [![][3]](https://www.facebook.com/EugeneKaspersky) ||||
 | 100 | Alexey Komarov | Russia | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) | [![][3]](https://www.facebook.com/komarov.alexey) ||[![][5]](https://zlonov.com)|[![][6]](https://t.me/zlonov)|
