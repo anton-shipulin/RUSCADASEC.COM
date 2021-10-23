@@ -119,4 +119,4 @@ RUSCADASEC challenge coin holders
 
 [<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
 ---
-Copyright © RUSCADASEC
+Copyright © [RUSCADASEC](http://ruscadasec.com)
