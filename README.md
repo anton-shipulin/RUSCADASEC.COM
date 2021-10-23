@@ -47,14 +47,16 @@ Simple but important community rules:
 * [Zoom Meetups](http://bit.ly/rssmeetup)
 -->
 
-## Partners and other open ICS Security communities
+## Partners and other ICS Security communities
 
-* [SCADASEC](https://groups.io/g/scadasec/) (US)
-* [EKS Siber Güvenlik Ekosistemi](https://www.eksguvenligi.org/) (Turkey)
-* [ScadaSecBR](https://t.me/scadasecbr) (Brasil)
-* [Industrial Cybersecurity Center (CCI)](https://www.cci-es.org/) (Spain)
+
 * [Beer ISAC](https://twitter.com/BEERISAC) (US)
+* [SCADASEC](https://groups.io/g/scadasec/) (US)
+* [ScadaSecBR](https://t.me/scadasecbr) (Brasil) 
 * [SANS ICS Community](https://ics-community.sans.org/) (US)
+* [EKS Siber Güvenlik Ekosistemi](https://www.eksguvenligi.org/) (Turkey)
+* [Industrial Cybersecurity Center (CCI)](https://www.cci-es.org/) (Spain)
+* [ICS Club](https://club-bip.ru/en/) (Russia) - For industrial companies only
 * [ISA99 Standards Committee](https://www.isa.org/standards-and-publications/isa-standards/join-a-standards-committee) (US) - [See Q8-Q12 about participation](https://ruscadasec.com/ISA99-62443-FAQ.pdf)
 
 ## RUSCADASEC Challenge Coin
