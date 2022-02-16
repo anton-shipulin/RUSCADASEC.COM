@@ -114,6 +114,7 @@ RUSCADASEC challenge coin holders
 | 029 | Andrew Nuikin | Russia || [![][2]](https://www.linkedin.com/in/andrew-nuikin-cisa-cism-07665b33/) | [![][3]](https://www.facebook.com/profile.php?id=100010188526685) ||||
 | 030 | Artem Zubkov | Russia |  | [![][2]](https://www.linkedin.com/in/артем-зубков-9450a430/) | [![][3]](https://www.facebook.com/artem.zubkov.37) ||||
 | 031 | Igor Dusha | Russia ||| [![][3]](https://www.facebook.com/igor.dusha.1) ||||
+| 032 | Ilya Shabanov | Russia | [![][1]](https://twitter.com/IlyaShabanov) | [![][2]](https://www.linkedin.com/in/ilyashabanov) | [![][3]](https://www.facebook.com/ilya.shabanov.3) ||||
 | 033 | Alexey Ivanov | Russia |  | [![][2]](https://www.linkedin.com/in/alexey-ivanov-540bb34/) |||||
 | 035 | Can [ˈdʒɒn] Demirel | Turkey | [![][1]](https://twitter.com/secandit) | [![][2]](https://www.linkedin.com/in/demirelcan/) |||||
 | 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) | [![][3]](https://www.facebook.com/kirill.manakhov) ||||
