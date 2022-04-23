@@ -117,6 +117,7 @@ RUSCADASEC challenge coin holders
 | 032 | Ilya Shabanov | Russia | [![][1]](https://twitter.com/IlyaShabanov) | [![][2]](https://www.linkedin.com/in/ilyashabanov) |||||
 | 033 | Alexey Ivanov | Russia |  | [![][2]](https://www.linkedin.com/in/alexey-ivanov-540bb34/) |||||
 | 035 | Can [ˈdʒɒn] Demirel | Turkey | [![][1]](https://twitter.com/secandit) | [![][2]](https://www.linkedin.com/in/demirelcan/) |||||
+| 038 | Boris Savkov | Russia ||[![][2]](https://www.linkedin.com/in/borissavkov/)|||||
 | 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) |||||
 | 042 | Zakir Supeyev | Kazakhstan | | [![][2]](https://www.linkedin.com/in/zakir-supeyev/) |||||
 | 069 | Vladimir Dashchenko | Russia | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) |||||
