@@ -59,6 +59,10 @@ Simple but important community rules:
 * [EKS Siber Güvenlik Ekosistemi](https://www.eksguvenligi.org/) (Turkey)
 * [Industrial Cybersecurity Center - CCI](https://www.cci-es.org/) (Spain)
 * [ICS Club](https://club-bip.ru/en/) (Russia) - For industrial companies only
+* [Top 20 Secure PLC Coding Practices](https://plc-security.com/#contact) (Global)
+* [CWE-CAPEC Industrial Control System and Operational Technology Special Interest Group](https://github.com/CWE-CAPEC/ICS-OT_SIG) (US)
+* [Cloud Security Alliance - Industrial Control Systems Working Group ](https://cloudsecurityalliance.org/research/working-groups/industrial-control-systems-ics-security/) (Global)
+
 
 
 
