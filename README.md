@@ -62,6 +62,7 @@ Simple but important community rules:
 * [Top 20 Secure PLC Coding Practices](https://plc-security.com/#contact) (Global)
 * [CWE-CAPEC Industrial Control System and Operational Technology Special Interest Group](https://github.com/CWE-CAPEC/ICS-OT_SIG) (US)
 * [Cloud Security Alliance - Industrial Control Systems Working Group ](https://cloudsecurityalliance.org/research/working-groups/industrial-control-systems-ics-security/) (Global)
+* [ControlThings Discord community](https://discord.gg/controlthings) (US) - OT/ICS Penetration Testing
 
 
 
