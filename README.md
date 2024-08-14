@@ -36,11 +36,17 @@ Simple but important community rules:
 * [Meetups](https://ruscadasec.timepad.ru/events/)
 * [Telegram Group](https://t.me/ruscadasec)
 * [Telegram Channel](https://t.me/ruscadasecnews)
+* [Telegram Vulnerability Channel](https://t.me/ScadaXNews)
 * [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Slide Decks](https://speakerdeck.com/ruscadasec)
 * [Online Shop](http://ruscadasec.printdirect.ru/)
 * [PayPal Donation](http://paypal.me/RUSCADASEC)
 * [YooMoney Donation](https://sobe.ru/na/ruscadasec)
+
+
+## Our conference
+* [RUSCADASEC CONF](https://conf-ruscadasec.ru/)
+
 
 <!---
 * [Newsletter](https://ruscadasec.us20.list-manage.com/subscribe/post?u=a01e4b7393b917c5bad9805f3&id=fdb45fbc20)
@@ -53,6 +59,7 @@ Simple but important community rules:
 * [Beer ISAC](https://twitter.com/BEERISAC) (US)
 * [SCADASEC](https://groups.io/g/scadasec/) (US)
 * [SANS ICS Community](https://ics-community.sans.org/) (US)
+* [ScadaX Security](https://t.me/ScadaXNews) (Global)
 * [Control System Cyber Security Association International - (CS)²AI](https://www.cs2ai.org/) (US)
 * [ISA99 Standards Committee](https://www.isa.org/standards-and-publications/isa-standards/join-a-standards-committee) (US) - [See Q8-Q12 about participation](https://ruscadasec.com/ISA99-62443-FAQ.pdf)
 * [ScadaSecBR](https://t.me/scadasecbr) (Brasil) 
@@ -91,7 +98,7 @@ RUSCADASEC challenge coin holders
 |#|Name|Country|||||||
 |---|---|:---:|---|---|---|---|---|---|
 | 001 | Anton Shipulin | Russia | [![][1]](https://twitter.com/shipulin_anton) | [![][2]](https://www.linkedin.com/in/shipulin) ||||[![][6]](https://t.me/shipulin_anton)|
-| 002 | Ilya Karpov | Russia |  | [![][2]](https://www.linkedin.com/in/ilya-karpov-06519178/) |||||
+| 002 | Ilya Karpov | Russia |  | [![][2]](https://www.linkedin.com/in/ilya-karpov-06519178/) ||||[![][6]](https://t.me/yayca)|
 | 003 | Evgeniy Druzhinin  | Russia |  |  |||||
 | 004 | Alexey Gurevich  | Russia |  | [![][2]](https://www.linkedin.com/in/alexey-gurevich-0940ab111/) |||||
 | 006 | Denis Sukhanov | Russia |  |  |||||
