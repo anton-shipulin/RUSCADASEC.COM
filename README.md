@@ -45,7 +45,7 @@ Simple but important community rules:
 
 
 ## Our conference
-* [RUSCADASEC CONF](https://conf-ruscadasec.ru/)
+* [RUSCADASEC CONF](http://conf.ruscadasec.ru/)
 
 
 <!---
@@ -132,8 +132,11 @@ RUSCADASEC challenge coin holders
 | 038 | Boris Savkov | Russia ||[![][2]](https://www.linkedin.com/in/borissavkov/)|||||
 | 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) |||||
 | 042 | Zakir Supeyev | Kazakhstan | | [![][2]](https://www.linkedin.com/in/zakir-supeyev/) |||||
+| 053 | Andrey Ivanov | Russia |||||||
+| 068 | Evgeny Goncharov | Russia |||||||
 | 069 | Vladimir Dashchenko | Russia | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) |||||
 | 070 | Eugene Kaspersky | Russia | [![][1]](https://twitter.com/e_kaspersky) | [![][2]](https://www.linkedin.com/in/eugenekaspersky) |||||
+| 099 | Georgy Zdobnov | Russia |||||||
 | 100 | Alexey Komarov | Russia | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) |||[![][5]](https://zlonov.com)|[![][6]](https://t.me/zlonov)|
 
 [<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
