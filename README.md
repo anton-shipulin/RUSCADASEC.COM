@@ -40,8 +40,6 @@ Simple but important community rules:
 * [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Slide Decks](https://speakerdeck.com/ruscadasec)
 * [Online Shop](http://ruscadasec.printdirect.ru/)
-* [PayPal Donation](http://paypal.me/RUSCADASEC)
-* [YooMoney Donation](https://sobe.ru/na/ruscadasec)
 
 
 ## Our conference
