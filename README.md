@@ -130,6 +130,10 @@ RUSCADASEC challenge coin holders
 | 038 | Boris Savkov | Russia ||[![][2]](https://www.linkedin.com/in/borissavkov/)|||||
 | 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) |||||
 | 042 | Zakir Supeyev | Kazakhstan | | [![][2]](https://www.linkedin.com/in/zakir-supeyev/) |||||
+| 046 | Artem Zinenko | Russia |||||||
+| 047 | Dmitry Khizhkin | Russia |||||||
+| 048 | Ivan Derkachev | Russia |||||||
+| 049 | Andrey Suvorov | Russia |||||||
 | 051 | Dmitriy Pravikov | Russia |||||[![][5]](https://gubkin.ru/faculty/faculty-of-complex-safety-of-the-fuel-and-energy-complex/kafedry-i-podrazdeleniya/kbkvo/pps/pravikov_d_i.php)||
 | 053 | Andrey Ivanov | Russia ||[![][2]](https://www.linkedin.com/in/andrey-ivanov-a585b839/)|||||
 | 068 | Evgeny Goncharov | Russia ||[![][2]](https://www.linkedin.com/in/evgeny-goncharov-a4446634/)|||||
