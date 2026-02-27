@@ -132,11 +132,12 @@ RUSCADASEC challenge coin holders
 | 038 | Boris Savkov | Russia ||[![][2]](https://www.linkedin.com/in/borissavkov/)|||||
 | 040 | Kirill Manakhov | Russia |  | [![][2]](https://www.linkedin.com/in/kirill-manakhov-5600a430/m) |||||
 | 042 | Zakir Supeyev | Kazakhstan | | [![][2]](https://www.linkedin.com/in/zakir-supeyev/) |||||
-| 053 | Andrey Ivanov | Russia |||||||
-| 068 | Evgeny Goncharov | Russia |||||||
+| 051 | Dmitriy Pravikov | Russia |||||[![][5]](https://gubkin.ru/faculty/faculty-of-complex-safety-of-the-fuel-and-energy-complex/kafedry-i-podrazdeleniya/kbkvo/pps/pravikov_d_i.php)||
+| 053 | Andrey Ivanov | Russia ||[![][2]](https://www.linkedin.com/in/andrey-ivanov-a585b839/)|||||
+| 068 | Evgeny Goncharov | Russia ||[![][2]](https://www.linkedin.com/in/evgeny-goncharov-a4446634/)|||||
 | 069 | Vladimir Dashchenko | Russia | [![][1]](https://twitter.com/VDashchenko) | [![][2]](https://www.linkedin.com/in/vladimir-dashchenko/) |||||
 | 070 | Eugene Kaspersky | Russia | [![][1]](https://twitter.com/e_kaspersky) | [![][2]](https://www.linkedin.com/in/eugenekaspersky) |||||
-| 099 | Georgy Zdobnov | Russia |||||||
+| 099 | Georgy Zdobnov | Russia |  | [![][2]](https://www.linkedin.com/in/zdobnov/) |||||
 | 100 | Alexey Komarov | Russia | [![][1]](https://twitter.com/zlonov) | [![][2]](https://www.linkedin.com/in/zlonov/) |||[![][5]](https://zlonov.com)|[![][6]](https://t.me/zlonov)|
 
 [<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
