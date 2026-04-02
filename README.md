@@ -11,7 +11,7 @@ The initiative objectives are to raise the awareness and expertise of security a
 The initiative encompasses online groups, live meetups and profile conferences, where the community members monitor main local and global industrial cyber security events, discuss organizational and technical aspects of the topic, share experience and ideas. We are always glad to have new members, ideas, and help on the community developing. Join us!
 
 [<img height="25%" width="25%" src="TG_EN_2.png">](https://t.me/RUSCADASEC)
-
+<iframe src="https://yoomoney.ru/quickpay/fundraise/button?billNumber=1GT0JVQSF17.260402&" width="330" height="50" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
 
 <!---
 
@@ -29,6 +29,10 @@ Simple but important community rules:
 2. Stick to the topic of the community
 ```
 
+## Our conference
+* [RUSCADASEC CONF](http://conf.ruscadasec.ru/)
+
+
 ## Our contacts and resources
 
 * [Email](mailto:info@ruscadasec.com)
@@ -40,10 +44,6 @@ Simple but important community rules:
 * [Youtube Channel](https://www.youtube.com/channel/UCLGBGUsWM9zjPIQbSmfzG1w)
 * [Slide Decks](https://speakerdeck.com/ruscadasec)
 * [Online Shop](http://ruscadasec.printdirect.ru/)
-
-
-## Our conference
-* [RUSCADASEC CONF](http://conf.ruscadasec.ru/)
 
 
 <!---
